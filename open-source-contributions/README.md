@@ -1,1 +1,1 @@
-# Open Source Contributions
+CONTENUTO_DI_OPEN_SOURCE_README
