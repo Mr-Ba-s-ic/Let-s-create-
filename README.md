@@ -1,7 +1,7 @@
-# Let's create!
+# Let's create! 
 
 I create software and hardware projects, exploring new ideas and turning imagination into reality.  
-This repository highlights my main work: robotics, web & mobile experiences, and contributions to the open-source community.
+This repository highlights my main work: robotics, web & software experiences, and contributions to the open-source community.
 
 ---
 
@@ -12,10 +12,11 @@ This repository highlights my main work: robotics, web & mobile experiences, and
 - IoT prototypes and interactive devices
 - Creative hardware experiments
 
-### Web & App Experiences
-- Web apps and mobile apps
-- Interactive visualizations and creative tools
-- Experimental software projects
+### Web & Software Experiences
+- Web apps and dashboards
+- Mobile applications with engaging UI/UX
+- Interactive visualizations and creative software tools
+- Experimental projects combining software and creative coding
 
 ### Open Source Contributions
 - Bug fixes, feature additions
