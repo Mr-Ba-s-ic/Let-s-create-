@@ -1,4 +1,4 @@
-# Let's create! – Creator of Things
+# Let's create!
 
 I create software and hardware projects, exploring new ideas and turning imagination into reality.  
 This repository highlights my main work: robotics, web & mobile experiences, and contributions to the open-source community.
