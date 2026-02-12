@@ -26,7 +26,7 @@ This repository highlights my main work: robotics, web & software experiences, a
 ---
 
 ## 🛠 Skills & Tools
-- **Languages:** C, C++, Python, Java, JavaScript, BASIC
+- **Languages:** Python, Typescript, react.js, C,C++...
 - **Hardware:** Arduino, Raspberry Pi, IoT
 - **Other:** Cybersecurity fundamentals, creative coding
 
